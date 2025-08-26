@@ -22,7 +22,6 @@ venv/
 *.tmp
 
 # Model and data artifacts (optional)
-*.pkl
 *.h5
 *.joblib
 

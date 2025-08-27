@@ -144,7 +144,7 @@ Demo:
 
 ## demos
 
-The folder ["demos"](demos/) includes screen recordings of me demoing the interactive Notebooks: ['06..'](notebooks/06%20-%20Input%20-%20User%20Car%20Value%20Estimation.ipynb) and ['07..'](notebooks/07%20-%20Input%20-%20Used%20Car%20Deal%20Recommender.ipynb)
+The folder ["demos"](demos/) includes screen recordings of me demoing the interactive Notebooks: ['06..'](#3-run-estimate-your-cars-price-notebook) and ['07..'](#4-run-find-best-used-car-notebook)
 
 ---
 

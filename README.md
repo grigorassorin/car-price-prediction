@@ -2,7 +2,7 @@
 
 This project estimates the value of used cars in Turkey and recommends good car deals based on ML model predictions and depreciation data. It includes a full data pipeline from scraping, cleaning, modeling, and interactive user notebooks.
 
-The main notebooks are the interactive ones: [`06`]((#3-run-estimate-your-cars-price-notebook)) which is meant to estimate the value of the user's current car and [`07`]((#4-run-find-best-used-car-notebook)) to help them find a new (used) vehicle. The rest (01 - 05) were used to colect and clean the data as well as to train the ML models and gather Depreciation Data for the cars.
+The main notebooks are the interactive ones: [`06`]((#3-run-estimate-your-cars-price-notebook)), which is meant to estimate the value of the user's current car, and [`07`]((#4-run-find-best-used-car-notebook)) to help them find a new (used) vehicle. The rest (01 - 05) were used to colect and clean the data as well as to train the ML models and gather Depreciation Data for the cars.
 
 ---
 

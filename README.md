@@ -122,7 +122,7 @@ This notebook will:
 - lists cars in order of the Deal + Depreciation
 
 Demo:
-- You can find a video screen recording demo-ing this interactive code in the ["demos"](demos/), files ["Demo - Search 480.mov"]() and ["Updates.mov"]()
+- in the ["demos"](demos/) folder you can find a video screen recording demo-ing this interactive code, files ["Demo - Search 480.mov"](demos/Demo%20-%20Search%20480.mov) and ["Updates.mov"](main/demos/Updates.mov)
 - or go to: https://youtu.be/NuOMLdMNaJE
 
 ---
@@ -144,7 +144,7 @@ Demo:
 
 ## demos
 
-The folder "demos" includes screen recordings of me demoing the interactive Notebooks: "06.." and "07.."
+The folder ["demos"](demos/) includes screen recordings of me demoing the interactive Notebooks: ['06..'](notebooks/06%20-%20Input%20-%20User%20Car%20Value%20Estimation.ipynb) and ['07..'](notebooks/07%20-%20Input%20-%20Used%20Car%20Deal%20Recommender.ipynb)
 
 ---
 

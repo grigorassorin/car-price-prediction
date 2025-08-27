@@ -110,7 +110,7 @@ https://youtu.be/PRyM5Z6U8_A
 - To run, it will look for:
 
   - [`2024_turkey_car_market_ML.csv`  ](data/processed/2024_turkey_car_market_ML.csv)
-  - The data in the folder [`models`](models/), with its subfolders:  
+  - The data in the folder [`models`](data/models/), with its subfolders:  
     - [`depreciation_data`](data/models/ML_MakeModel)  
     - [`ML_MakeModel`](data/models/depreciation_data)
 

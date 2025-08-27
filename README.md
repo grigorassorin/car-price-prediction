@@ -122,8 +122,8 @@ This notebook will:
 - lists cars in order of the Deal + Depreciation
 
 Demo:
-- To see a video recording demo-ing this interactive code, go to the "demos" folder -> "Demo - Search 480.mov" and "Updates.mov", or go to:
-https://youtu.be/NuOMLdMNaJE
+- You can find a video screen recording demo-ing this interactive code in the ["demos"](demos/), files ["Demo - Search 480.mov"]() and ["Updates.mov"]()
+- or go to: https://youtu.be/NuOMLdMNaJE
 
 ---
 

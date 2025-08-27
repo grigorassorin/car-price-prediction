@@ -2,6 +2,8 @@
 
 This project estimates the value of used cars in Turkey and recommends good car deals based on ML model predictions and depreciation data. It includes a full data pipeline from scraping, cleaning, modeling, and interactive user notebooks.
 
+The main notebooks are the interactive ones [`06`]((#3-run-estimate-your-cars-price-notebook)) and [`07`]((#4-run-find-best-used-car-notebook)). The rest were just used to colect and clean the data as well as to train the ML models and gather Depreciation Data for the cars.
+
 ---
 
 ## 📚 Table of Contents
@@ -151,7 +153,7 @@ The folder ["demos"](demos/) includes screen recordings of me demoing the intera
 ## Educational Context
 
 This project was originally developed for educational purposes as a **Capstone project** for the **UCLA Extension Certificate in Data Science** in June 2024. 
-The PDF presentation I used to present the project can be found in [`docs/`](docs/Sorin%20Grigoras%20Capstone%20Presentation%20-%20Turkyie%20Car%20Investment%20Strategy.pdf).
+The ['PDF presentation']((docs/Sorin%20Grigoras%20Capstone%20Presentation%20-%20Turkyie%20Car%20Investment%20Strategy.pdf)) I used to present this project can be found in [`docs/`](docs/).
 
 The interactive notebooks (`06` and `07`) were developed later, to provide real-world use of the analysis.
 

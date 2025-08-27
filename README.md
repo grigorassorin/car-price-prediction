@@ -87,9 +87,12 @@ pip install -r requirements.txt
 
 ### 3. Run Estimate Your Car's Price Notebook
 - Go to [`notebooks/06 - Input - User Car Value Estimation.ipynb`](notebooks/06%20-%20Input%20-%20User%20Car%20Value%20Estimation.ipynb) to estimate your car’s worth
-- to run, it will look for:
-            - "2024_turkey_car_market_ML.csv"
-            - the data in the folder "models", with its subfolders "depreciation_data" and "ML_MakeModel"
+- To run, it will look for:
+
+  - `2024_turkey_car_market_ML.csv`  
+  - The data in the folder `models`, with its subfolders:  
+    - `depreciation_data`  
+    - `ML_MakeModel`
 
 This notebook will:
 - Ask for user inputs (car specs)
@@ -104,9 +107,12 @@ https://youtu.be/PRyM5Z6U8_A
 
 ### 4. Run Find Best Used Car Notebook
 - Go to [`notebooks/07 - Input - Used Car Deal Recommender.ipynb`](notebooks/07%20-%20Input%20-%20Used%20Car%20Deal%20Recommender.ipynb) to find undervalued used cars
-- to run, it will look for:
-            - "2024_turkey_car_market_ML.csv"
-            - the data in the folder "models", with its subfolders "depreciation_data" and "ML_MakeModel"
+- To run, it will look for:
+
+  - [`2024_turkey_car_market_ML.csv`  ](processed/2024_turkey_car_market_ML.csv)
+  - The data in the folder [`models`](models/), with its subfolders:  
+    - [`depreciation_data`](models/ML_MakeModel)  
+    - [`ML_MakeModel`](models/depreciation_data)
 
 This notebook will:
 - Ask for user inputs for desired car: any combination of make / model / transmission / body type / year / kilometers / engine size / price / color etc (any combination of these) to subset the main set

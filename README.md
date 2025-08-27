@@ -109,7 +109,7 @@ https://youtu.be/PRyM5Z6U8_A
 - Go to [`notebooks/07 - Input - Used Car Deal Recommender.ipynb`](notebooks/07%20-%20Input%20-%20Used%20Car%20Deal%20Recommender.ipynb) to find undervalued used cars
 - To run, it will look for:
 
-  - [`2024_turkey_car_market_ML.csv`  ](processed/2024_turkey_car_market_ML.csv)
+  - [`2024_turkey_car_market_ML.csv`  ](data/processed/2024_turkey_car_market_ML.csv)
   - The data in the folder [`models`](models/), with its subfolders:  
     - [`depreciation_data`](data/models/ML_MakeModel)  
     - [`ML_MakeModel`](data/models/depreciation_data)

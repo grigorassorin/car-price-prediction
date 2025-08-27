@@ -89,10 +89,10 @@ pip install -r requirements.txt
 - Go to [`notebooks/06 - Input - User Car Value Estimation.ipynb`](notebooks/06%20-%20Input%20-%20User%20Car%20Value%20Estimation.ipynb) to estimate your car’s worth
 - To run, it will look for:
 
-  - `2024_turkey_car_market_ML.csv`  
-  - The data in the folder `models`, with its subfolders:  
-    - `depreciation_data`  
-    - `ML_MakeModel`
+  - [`2024_turkey_car_market_ML.csv`  ](data/processed/2024_turkey_car_market_ML.csv)
+  - The data in the folder [`models`](data/models/), with its subfolders:  
+    - [`depreciation_data`](data/models/ML_MakeModel)  
+    - [`ML_MakeModel`](data/models/depreciation_data)
 
 This notebook will:
 - Ask for user inputs (car specs)

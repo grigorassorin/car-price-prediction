@@ -111,8 +111,8 @@ https://youtu.be/PRyM5Z6U8_A
 
   - [`2024_turkey_car_market_ML.csv`  ](processed/2024_turkey_car_market_ML.csv)
   - The data in the folder [`models`](models/), with its subfolders:  
-    - [`depreciation_data`](models/ML_MakeModel)  
-    - [`ML_MakeModel`](models/depreciation_data)
+    - [`depreciation_data`](data/models/ML_MakeModel)  
+    - [`ML_MakeModel`](data/models/depreciation_data)
 
 This notebook will:
 - Ask for user inputs for desired car: any combination of make / model / transmission / body type / year / kilometers / engine size / price / color etc (any combination of these) to subset the main set

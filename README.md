@@ -76,7 +76,7 @@ car_prediction/
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/car_prediction.git
+git clone https://github.com/grigorassorin/car-price-prediction.git
 cd car_prediction
 ```
 
@@ -103,7 +103,7 @@ https://youtu.be/PRyM5Z6U8_A
 
 
 ### 4. Run Find Best Used Car Notebook
-- Go to `notebooks/07 - Input - Used Car Deal Recommender.ipynb` to find undervalued used cars
+- Go to [`notebooks/07 - Input - Used Car Deal Recommender.ipynb`](notebooks/07%20-%20Input%20-%20Used%20Car%20Deal%20Recommender.ipynb) to find undervalued used cars
 - to run, it will look for:
             - "2024_turkey_car_market_ML.csv"
             - the data in the folder "models", with its subfolders "depreciation_data" and "ML_MakeModel"
@@ -131,8 +131,8 @@ https://youtu.be/NuOMLdMNaJE
 
 ## notebooks 01 - 05
 
-- No need to run these notebooks, numbered from 01 to 05, unless you wish to scrape new data. Should you choose to want this, you will need to update scraping locations and run Notebook 01.. to scrape this new data and have it update the database with these new cars; then run 03.. to clean this new data, 04.. to retrain the ML models and 05.. to update the depreciation data.
-- Then you can run 06.. and 07.. on the new data.
+- No need to run these notebooks, numbered from 01 to 05, unless you wish to scrape new data. Should you choose to want this, you will need to update scraping locations and run Notebook ['01..'](notebooks/01%20-%20Scrape%20-%202024%20Turkey%20Used%20Cars.ipynb) to scrape this new data and have it update the database with these new cars; then run ['03..'](notebooks/03%20-%20Cleaning.ipynb) to clean this new data, ['04..'](notebooks/04%20-%20Model%20Training.ipynb) to retrain the ML models and ['05..'](notebooks/05%20-%20Depreciation%20Data.ipynb) to update the depreciation data.
+- Then you can run ['06..'](notebooks/06%20-%20Input%20-%20User%20Car%20Value%20Estimation.ipynb) and ['07..'](notebooks/07%20-%20Input%20-%20Used%20Car%20Deal%20Recommender.ipynb) on the new data.
 
 ---
 
@@ -147,7 +147,7 @@ The folder "demos" includes screen recordings of me demoing the interactive Note
 This project was originally developed for educational purposes as a **Capstone project** for the **UCLA Extension Certificate in Data Science** in June 2024. 
 The PDF presentation I used to present the project can be found in [`docs/`](docs/Sorin%20Grigoras%20Capstone%20Presentation%20-%20Turkyie%20Car%20Investment%20Strategy.pdf).
 
-The interactive notebooks (`06` and `07`) were developed later to provide real-world use of the analysis.
+The interactive notebooks (`06` and `07`) were developed later, to provide real-world use of the analysis.
 
 ---
 

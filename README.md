@@ -26,8 +26,8 @@ This project estimates the value of used cars in Turkey and recommends good car 
 - Trains ML models to estimate current market value
 - Calculates depreciation per car make/model
 - Offers 2 user notebooks:
-  - `06 - Input - User Car Value Estimation.ipynb`: Estimate your car’s worth
-  - `07 - Input - Used Car Deal Recommender.ipynb`: Find undervalued used cars
+  - [`06 - Input - User Car Value Estimation.ipynb`](#3-run-estimate-your-cars-price-notebook): Estimate your car’s worth
+  - [`07 - Input - Used Car Deal Recommender.ipynb`](#4-run-find-best-used-car-notebook): Find undervalued used cars
 
 ---
 

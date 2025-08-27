@@ -137,14 +137,15 @@ Demo:
 
 ---
 
-## notebooks 01 - 05
+## Notebooks 01 - 05
 
-- No need to run these notebooks, numbered from 01 to 05, unless you wish to scrape new data. Should you choose to want this, you will need to update scraping locations and run Notebook ['01..'](notebooks/01%20-%20Scrape%20-%202024%20Turkey%20Used%20Cars.ipynb) to scrape this new data and have it update the database with these new cars; then run ['03..'](notebooks/03%20-%20Cleaning.ipynb) to clean this new data, ['04..'](notebooks/04%20-%20Model%20Training.ipynb) to retrain the ML models and ['05..'](notebooks/05%20-%20Depreciation%20Data.ipynb) to update the depreciation data.
-- Then you can run ['06..'](notebooks/06%20-%20Input%20-%20User%20Car%20Value%20Estimation.ipynb) and ['07..'](notebooks/07%20-%20Input%20-%20Used%20Car%20Deal%20Recommender.ipynb) on the new data.
+- No need to run these notebooks, numbered from '01 - ...' to '05 - ...', unless you wish to scrape new data. 
+- Should you choose to want this, you will need to update scraping locations in Notebook ['01..'](notebooks/01%20-%20Scrape%20-%202024%20Turkey%20Used%20Cars.ipynb) and run it; this will generate new data; then run ['03..'](notebooks/03%20-%20Cleaning.ipynb) to clean this new data, ['04..'](notebooks/04%20-%20Model%20Training.ipynb) to retrain the ML models and ['05..'](notebooks/05%20-%20Depreciation%20Data.ipynb) to update the depreciation data.
+- Then you can run ['06..'](notebooks/06%20-%20Input%20-%20User%20Car%20Value%20Estimation.ipynb) and ['07..'](notebooks/07%20-%20Input%20-%20Used%20Car%20Deal%20Recommender.ipynb) and they will use your newly scraped vehicles.
 
 ---
 
-## demos
+## Demos
 
 The folder ["demos"](demos/) includes screen recordings of me demoing the interactive Notebooks: ['06 - ..'](#3-run-estimate-your-cars-price-notebook) and ['07 - ..'](#4-run-find-best-used-car-notebook)
 

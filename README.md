@@ -55,8 +55,8 @@ car_prediction/
 │   ├── 03 - Cleaning.ipynb                                  <- Input "2024_turkey_car_market.csv" scraped data; output "2024_turkey_car_market_clean.csv"
 │   ├── 04 - Model Training.ipynb                            <- Input "2024_turkey_car_market_clean.csv"; output "2024_turkey_car_market_ML.csv" and the models in folder "models/ML_MakeModel"
 │   ├── 05 - Depreciation Data.ipynb                         <- Input "2024_turkey_car_market_clean.csv"; output the depreciation data in folder "models/depreciation_data"
-│   ├── 06 - Input - Car Value Estimation.ipynb ✅           <- Standalone; requires only "2024_turkey_car_market_ML.csv" and the data in the folder "models": "depreciation_data" and "ML_MakeModel"
-│   └── 07 - Input - Used Car Deal Recommender.ipynb ✅      <- Standalone; requires only "2024_turkey_car_market_ML.csv" and the data in the folder "models": "depreciation_data" and "ML_MakeModel"
+│   ├── [06 - Input - Car Value Estimation.ipynb](#3-run-estimate-your-cars-price-notebook) ✅           <- Standalone; requires only "2024_turkey_car_market_ML.csv" and the data in the folder "models": "depreciation_data" and "ML_MakeModel"
+│   └── [07 - Input - Used Car Deal Recommender.ipynb](#4-run-find-best-used-car-notebook) ✅      <- Standalone; requires only "2024_turkey_car_market_ML.csv" and the data in the folder "models": "depreciation_data" and "ML_MakeModel"
 │
 ├── demos/                                                   <- Screen Recordings showing the input codes working (notebooks 06.. and 07..)
 │

@@ -80,7 +80,9 @@ This notebook will:
 - Estimate user's current car’s value based on the available dataset
 
 Demo:
-- To see a video recording demo-ing this interactive code, go to the "demos" folder -> "Demo - Car Value.mov"
+- To see a video recording demo-ing this interactive code, go to the "demos" folder -> "Demo - Car Value.mov" or go to:
+https://youtu.be/PRyM5Z6U8_A
+
 
 
 ### 4. Run Notebook "07 .." to estimate your car's worth
@@ -95,7 +97,9 @@ This notebook will:
 - lists cars in order of the Deal + Depreciation
 
 Demo:
-- To see a video recording demo-ing this interactive code, go to the "demos" folder -> "Demo - Search 480.mov" and "Updates.mov"
+- To see a video recording demo-ing this interactive code, go to the "demos" folder -> "Demo - Search 480.mov" and "Updates.mov", or go to:
+https://youtu.be/NuOMLdMNaJE
+
 ---
 
 ## ML Modeling

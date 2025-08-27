@@ -86,8 +86,10 @@ pip install -r requirements.txt
 ```
 
 ### 3. Run Estimate Your Car's Price Notebook
-- Go to `notebooks/06 - Input - User Car Value Estimation.ipynb` to estimate your car’s worth
-- to run, it needs only: "2024_turkey_car_market_ML.csv" & the data in the folder "models": "depreciation_data" and "ML_MakeModel"
+- Go to [`notebooks/06 - Input - User Car Value Estimation.ipynb`](notebooks/06%20-%20Input%20-%20User%20Car%20Value%20Estimation.ipynb) to estimate your car’s worth
+- to run, it will look for:
+            - "2024_turkey_car_market_ML.csv"
+            - the data in the folder "models", with its subfolders "depreciation_data" and "ML_MakeModel"
 
 This notebook will:
 - Ask for user inputs (car specs)
@@ -102,7 +104,9 @@ https://youtu.be/PRyM5Z6U8_A
 
 ### 4. Run Find Best Used Car Notebook
 - Go to `notebooks/07 - Input - Used Car Deal Recommender.ipynb` to find undervalued used cars
-- to run, it needs only: "2024_turkey_car_market_ML.csv" & the data in the folder "models": "depreciation_data" and "ML_MakeModel"
+- to run, it will look for:
+            - "2024_turkey_car_market_ML.csv"
+            - the data in the folder "models", with its subfolders "depreciation_data" and "ML_MakeModel"
 
 This notebook will:
 - Ask for user inputs for desired car: any combination of make / model / transmission / body type / year / kilometers / engine size / price / color etc (any combination of these) to subset the main set
@@ -127,13 +131,14 @@ https://youtu.be/NuOMLdMNaJE
 
 ## notebooks 01 - 05
 
-- No need to run them, unless you wish to scrape new data and thus change the main dataset and retrain the models
+- No need to run these notebooks, numbered from 01 to 05, unless you wish to scrape new data. Should you choose to want this, you will need to update scraping locations and run Notebook 01.. to scrape this new data and have it update the database with these new cars; then run 03.. to clean this new data, 04.. to retrain the ML models and 05.. to update the depreciation data.
+- Then you can run 06.. and 07.. on the new data.
 
 ---
 
 ## demos
 
-Screen recordings of me using Notebooks "06.." and "07.."
+The folder "demos" includes screen recordings of me demoing the interactive Notebooks: "06.." and "07.."
 
 ---
 

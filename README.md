@@ -4,6 +4,21 @@ This project estimates the value of used cars in Turkey and recommends good car 
 
 ---
 
+## 📚 Table of Contents
+
+- [Project Summary](#project-summary)
+- [Repository Structure](#repository-structure)
+- [How to Use](#how-to-use)
+  - [1. Clone the Repo](#1-clone-the-repo)
+  - [2. Install Dependencies](#2-install-dependencies)
+  - [3. Run Estimate Your Car's Price Notebook](#3-run-estimate-your-cars-price-notebook)
+  - [4. Run Find Best Used Car Notebook](#4-run-find-best-used-car-notebook)
+- [ML Modeling](#ml-modeling)
+- [Notebooks 01 - 05](#notebooks-01---05)
+- [Demos](#demos)
+
+---
+
 ## Project Summary
 
 - Scrapes car data from Turkish and US markets
@@ -70,7 +85,7 @@ cd car_prediction
 pip install -r requirements.txt
 ```
 
-### 3. Run Notebook "06 .." to estimate your car's worth
+### 3. Run Estimate Your Car's Price Notebook
 - Go to `notebooks/06 - Input - User Car Value Estimation.ipynb` to estimate your car’s worth
 - to run, it needs only: "2024_turkey_car_market_ML.csv" & the data in the folder "models": "depreciation_data" and "ML_MakeModel"
 
@@ -85,7 +100,7 @@ https://youtu.be/PRyM5Z6U8_A
 
 
 
-### 4. Run Notebook "07 .." to estimate your car's worth
+### 4. Run Find Best Used Car Notebook
 - Go to `notebooks/07 - Input - Used Car Deal Recommender.ipynb` to find undervalued used cars
 - to run, it needs only: "2024_turkey_car_market_ML.csv" & the data in the folder "models": "depreciation_data" and "ML_MakeModel"
 

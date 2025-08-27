@@ -146,7 +146,7 @@ Demo:
 
 ## demos
 
-The folder ["demos"](demos/) includes screen recordings of me demoing the interactive Notebooks: ['06..'](#3-run-estimate-your-cars-price-notebook) and ['07..'](#4-run-find-best-used-car-notebook)
+The folder ["demos"](demos/) includes screen recordings of me demoing the interactive Notebooks: ['06 - ..'](#3-run-estimate-your-cars-price-notebook) and ['07 - ..'](#4-run-find-best-used-car-notebook)
 
 ---
 
@@ -155,7 +155,7 @@ The folder ["demos"](demos/) includes screen recordings of me demoing the intera
 This project was originally developed for educational purposes as a **Capstone project** for the **UCLA Extension Certificate in Data Science** in June 2024. 
 The ['PDF presentation']((docs/Sorin%20Grigoras%20Capstone%20Presentation%20-%20Turkyie%20Car%20Investment%20Strategy.pdf)) I used to present this project can be found in [`docs/`](docs/).
 
-The interactive notebooks (`06` and `07`) were developed later, to provide real-world use of the analysis.
+The interactive notebooks (`06 - ...` and `07 - ...`) were developed after presenting the project, to provide real-world use of the analysis.
 
 ---
 
